@@ -1,2 +1,2 @@
-**CS 2340 SOLID/GRASP Assignment**
+**CS 2340 SOLID/GRASP Assignment** <br>
 Contributors: Lalitha Gunturi, Mahathi Hariharan
